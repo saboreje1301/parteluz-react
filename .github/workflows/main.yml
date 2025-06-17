@@ -34,6 +34,10 @@ jobs:
           server: ${{ secrets.FTP_HOST }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
+          exclude: |
+            .git/
+            .github/
+            .venv/
           local-dir: './dist/' # <--- ¡IMPORTANTE! Indica que suba el contenido de esta carpeta.
           remote-dir: '/public_html/' # <--- ¡IMPORTANTE! Indica dónde subirlo en tu servidor.
           # Si quieres borrar archivos en el remoto que ya no están en el local:
