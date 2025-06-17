@@ -1,0 +1,89 @@
+[
+  {
+    "id": "vinedossanlucas",
+    "image": "/assets/images/vinedos/20200318.webp",
+    "imageset": "/assets/images/vinedos/",
+    "title": "Viñedos San Lucas",
+    "description": "Descripción del proyecto 1",
+    "category": "renovation",
+    "year": 2020
+
+  },
+    {
+    "id": "casaguadiana",
+    "image": "/assets/images/guadiana/101555.webp",
+    "imageset" : "/assets/images/guadiana/",
+    "images" : [
+      "/assets/images/guadiana/101555.webp",
+      "/assets/images/guadiana/101918.webp",
+      "/assets/images/guadiana/101947.webp"
+    ],
+    "title": "Casa Guadiana",
+    "description": "Descripción del proyecto 2",
+    "category": "renovation",
+    "year": 2020
+  },
+    {
+    "id": "casadosaguas",
+    "image": "/assets/images/dos_aguas/105919.webp",
+    "imageset": "/img/casa_dos_aguas/",
+    "title": "Casa Dos Aguas",
+    "description": "Descripción del proyecto 2",
+    "category": "renovation",
+    "year": 2020
+  },
+    {
+    "id": "casiopea",
+    "image": "/assets/images/casiopea/162932.webp",
+    "imageset": "/assets/images/casiopea/",
+    "title": "Casiopea",
+    "description": "Descripción del proyecto 2",
+    "category": "renovation",
+    "year": 2020
+  },
+  {
+    "id": "casathies",
+    "image": "/assets/images/casathies/165755.webp",
+    "imageset": "/assets/images/casa_thies/",
+    "title": "Casa Thies",
+    "description": "Descripción del proyecto 2",
+    "category": "renovation",
+    "year": 2020
+  },
+    {
+    "id": "casaelmilagro",
+    "image": "/assets/images/milagro36/WA0028.webp",
+    "imageset": "/assets/images/milagro36/",
+    "title": "Ampliación el Milagro",
+    "description": "Descripción del proyecto 2",
+    "category": "renovation",
+    "year": 2020
+  },
+    {
+    "id": "cocinapirules",
+    "image": "/assets/images/cocinapirules/102448.webp",
+    "imageset": "/assets/images/cocinapirules/",
+    "title": "Cocina Pirules",
+    "description": "Descripción del proyecto 2",
+    "category": "commercial",
+    "year": 2020
+  },
+    {
+    "id": "casacinco",
+    "image": "/assets/images/casacinco/142536.webp",
+    "imageset": "/assets/images/casacinco/",
+    "title": "Casa Cinco",
+    "description": "Descripción del proyecto 2",
+    "category": "renovation",
+    "year": 2020
+  },
+    {
+    "id": "sendafracc7",
+    "image": "/assets/images/sendafracc/135158.webp",
+    "imageset": "/assets/images/senda_fracc7/",
+    "title": "Senda San Miguel",
+    "description": "Descripción del proyecto 2",
+    "category": "residencial",
+    "year": 2020
+  }
+]

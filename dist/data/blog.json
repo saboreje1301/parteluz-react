@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/blog_images/boveda.webp",
+      "title": "La Audacia del Equilibrio",
+      "excerpt": "Construyendo Bóvedas de Cuña a Mano Alzada en Rensa Arquitectura",
+      "link": "https://www.linkedin.com/posts/parteluzarquitectura_la-audacia-del-equilibrio-construyendo-b%C3%B3vedas-activity-7332993674038886400-cQZh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAsfvK8BvY7B6fylNUGrnyhfnX_MY4R8w60"
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/blog_images/desafios.webp",
+      "title": "Tendencias en diseño arquitectónico para 2025",
+      "excerpt": "Explora las últimas tendencias en diseño arquitectónico que están marcando el futuro.",
+      "link": "https://www.linkedin.com/posts/parteluzarquitectura_tu-proyecto-de-construcci%C3%B3n-se-siente-como-activity-7328132043039547392-KpRy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAsfvK8BvY7B6fylNUGrnyhfnX_MY4R8w60"
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/blog_images/valor.webp",
+      "title": "Valor, Precio y Costo en Construcción",
+      "excerpt": "¿Cuál es la Diferencia y Por Qué Importa?",
+      "link": "https://www.linkedin.com/posts/parteluzarquitectura_activity-7308221304552202242--Xda?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAsfvK8BvY7B6fylNUGrnyhfnX_MY4R8w60"
+    }
+  ]
