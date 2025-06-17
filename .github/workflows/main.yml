@@ -3,7 +3,7 @@ name: 🚀 Deploy website on push
 on:
   push:
     branches:
-      - main  # ✅ solo en rama main, puedes quitar esto si no lo necesitas
+      - main # ✅ solo en rama main, puedes quitar esto si no lo necesitas
 
 jobs:
   web-deploy:
@@ -14,6 +14,17 @@ jobs:
       - name: 🚚 Get latest code
         uses: actions/checkout@v4
 
+      - name: 🛠️ Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20' # ⚠️ Asegúrate de que esta sea la versión de Node.js que usas para tu proyecto
+
+      - name: 📦 Install dependencies
+        run: npm install # O 'yarn install' si usas Yarn
+
+      - name: 🏗️ Build project
+        run: npm run build # O 'yarn build' si usas Yarn. Esto creará tu carpeta 'dist' (o 'build').
+
       - name: ✅ Verificar usuario (log seguro)
         run: echo "Iniciando deploy vía FTP..."
 
@@ -23,4 +34,8 @@ jobs:
           server: ${{ secrets.FTP_HOST }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: './dist/' # <--- ¡IMPORTANTE! Indica que suba el contenido de esta carpeta.
+          remote-dir: '/public_html/' # <--- ¡IMPORTANTE! Indica dónde subirlo en tu servidor.
+          # Si quieres borrar archivos en el remoto que ya no están en el local:
+          dangerous-clean-remote: true
           dry-run: false
