@@ -15,7 +15,7 @@ function Footer() {
           </div>
           
           <div>
-            <h4 className="text-lg font-semibold mb-4">Quick Links</h4>
+            <h4 className="text-lg font-semibold mb-4">Enlaces Directos</h4>
             <ul className="space-y-1">
               <li><Link to="/portfolio" className="text-gray-400 hover:text-white">Portfolio</Link></li>
               <li><Link to="/about" className="text-gray-400 hover:text-white">Nosotros</Link></li>
@@ -25,7 +25,7 @@ function Footer() {
           </div>
           
           <div>
-            <h4 className="text-lg font-semibold mb-4">Contact</h4>
+            <h4 className="text-lg font-semibold mb-4">Contacto</h4>
             <ul className="space-y-1 text-gray-400">
               <li>San Miguel de Allende, Mexico</li>
               <li>contact@parteluzarquitectura.com</li>

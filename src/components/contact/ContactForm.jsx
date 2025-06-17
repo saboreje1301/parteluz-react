@@ -58,7 +58,7 @@ function ContactForm() {
                 </div>
                 <div>
                   <h4 className="font-semibold">Correo electrónico</h4>
-                  <p className="text-gray-600">contact@ejemplo.com</p>
+                  <p className="text-gray-600">contact@parteluzarquitectura.com</p>
                 </div>
               </div>
               
@@ -85,6 +85,7 @@ function ContactForm() {
                 name="name"
                 value={formData.name}
                 onChange={handleChange}
+                placeholder='Tu nombre'
                 className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-gray-900 focus:ring-gray-900"
                 required
               />
@@ -98,6 +99,7 @@ function ContactForm() {
                 name="email"
                 value={formData.email}
                 onChange={handleChange}
+                placeholder='micorreo@ejemplo.com'
                 className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-gray-900 focus:ring-gray-900"
                 required
               />
@@ -112,6 +114,7 @@ function ContactForm() {
                 value={formData.phone}
                 onChange={handleChange}
                 className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-gray-900 focus:ring-gray-900"
+                placeholder='55-5555-5555'
               />
             </div>
             

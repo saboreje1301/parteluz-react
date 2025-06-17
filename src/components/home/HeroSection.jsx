@@ -19,12 +19,11 @@ function HeroSection() {
         <div className="container mx-auto px-4">
           <div className="max-w-3xl">
             <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">
-              Creating Exceptional Architectural Experiences
+              Diseñando Experiencias Arquitectónicas Únicas
             </h1>
             <p className="text-xl text-white/90 mb-8">
-              Award-winning architecture firm in San Miguel de Allende, specializing in
-              luxury residential and commercial projects that blend contemporary design
-              with colonial heritage.
+              Somos un estudio de arquitectura de San Miguel de Allende, con una trayectoria reconocida por transformar espacios residenciales y comerciales de lujo. 
+              Nuestra propuesta integra magistralmente el diseño contemporáneo con la esencia y el encanto de la arquitectura colonial
             </p>
             <div className="space-x-4">
               <button className="bg-white text-gray-900 px-8 py-3 rounded-md hover:bg-gray-100 transition-colors duration-200">
