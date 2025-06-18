@@ -40,14 +40,16 @@ function BlogGrid({ preview = false }) {
               <h3 className="text-xl font-semibold mb-2">{post.title}</h3>
               <p className="text-gray-600 mb-4">{post.excerpt}</p>
               
-              <button className="text-gray-900 font-semibold hover:text-gray-700">
-                <a
-  href={post.link}
-  className="text-gray-900 font-semibold hover:text-gray-700"
->
-  Read More →
-</a>
-              </button>
+<button
+  className="text-gray-900 font-semibold hover:text-gray-700 p-3 rounded min-w-[48px] min-h-[48px] flex items-center justify-center">
+  <a
+    href={post.link}
+    className="text-gray-900 font-semibold hover:text-gray-700"
+    style={{ display: 'block', width: '100%', height: '100%' }}
+  >
+    Leer más →
+  </a>
+</button>
             </div>
           </article>
         ))}
