@@ -6,12 +6,14 @@ function HeroSection() {
     <div className="relative h-screen">
       {/* Hero Background Image */}
       <div className="absolute inset-0">
+        <picture>
         <img
           src="/assets/images/aux/190336_106.webp"
           alt="Modern Architecture"
           className="w-full h-full object-cover"
           loading="lazy"
-        />
+          />
+        </picture>  
         <div className="absolute inset-0 bg-black/50"></div>
       </div>
       

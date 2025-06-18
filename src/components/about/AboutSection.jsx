@@ -54,11 +54,13 @@ function AboutSection({ preview = false }) {
           </div>
           
           <div className="relative h-64 md:h-full">
+            <picture>
             <img
               src="/assets/images/aux/183722.webp"
               alt="Our Team"
-              className="rounded-lg object-cover w-full h-full"
+              className="rounded-lg object-cover w-full h-full ocultar-en-movil"
             />
+            </picture>
           </div>
         </div>
         

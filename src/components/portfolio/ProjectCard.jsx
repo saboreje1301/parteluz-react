@@ -8,12 +8,14 @@ function ProjectCard({ proyecto }) {
     <>
       <div className="group relative overflow-hidden rounded-lg shadow-lg transition-transform duration-300 hover:-translate-y-2">
         <div className="aspect-w-16 h-64 relative">
+          <picture>
           <img
             src={proyecto.image}
             alt={proyecto.title}
             className="object-cover w-full overflow-hidden transition-transform duration-300 group-hover:scale-110"
             loading="lazy"
           />
+          </picture>
         </div>
         
         <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">

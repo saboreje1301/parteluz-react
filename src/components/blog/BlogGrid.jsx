@@ -25,12 +25,14 @@ function BlogGrid({ preview = false }) {
         {displayBlogs.map((post) => (
           <article key={post.id} className="bg-white rounded-lg overflow-hidden shadow-lg">
             <div className="aspect-w-16 aspect-h-9">
+              <picture>
               <img
                 src={post.image}
                 alt={post.title}
-                className="object-cover w-full h-full"
+                className="object-cover w-full h-full ocultar-en-movil"
                 loading="lazy"
               />
+              </picture>
             </div>
             
             <div className="p-6">

@@ -18,12 +18,14 @@ function Carousel({ images = [], alt = '' }) {
         &#8592;
       </button>
       <div className="w-full aspect-w-16 aspect-h-9 bg-gray-100 flex items-center justify-center">
+      <picture>
       <img
         src={images[current]}
         alt={`${alt} ${current + 1}`}
         className="flex items-center justify-center size-9/12 object-cover rounded-lg"
         loading="lazy"
       />
+      </picture>
       </div>
       <button
         onClick={next}
