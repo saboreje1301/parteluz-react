@@ -53,7 +53,7 @@ function AboutSection({ preview = false }) {
             )}
           </div>
           
-          <div className="relative h-64 md:h-full">
+          <div className="relative h-64 md:h-full hidden md:block">
             <picture>
             <img
               src="/assets/images/aux/183722.webp"

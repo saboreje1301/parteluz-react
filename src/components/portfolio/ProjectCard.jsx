@@ -13,7 +13,7 @@ function ProjectCard({ proyecto }) {
             src={proyecto.image}
             alt={proyecto.title}
             className="object-cover w-full overflow-hidden transition-transform duration-300 group-hover:scale-110"
-            loading="lazy"
+            
           />
           </picture>
         </div>

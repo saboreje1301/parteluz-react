@@ -30,7 +30,7 @@ function BlogGrid({ preview = false }) {
                 src={post.image}
                 alt={post.title}
                 className="object-cover w-full h-full ocultar-en-movil"
-                loading="lazy"
+                
               />
               </picture>
             </div>
@@ -60,8 +60,11 @@ function BlogGrid({ preview = false }) {
       
       {preview && (
         <div className="text-center mt-8">
-          <button className="inline-block bg-gray-900 text-white px-8 py-3 rounded-md hover:bg-gray-800 transition-colors duration-200">
-            View All Posts
+          <button 
+          className="inline-block bg-gray-900 text-white px-8 py-3 rounded-md hover:bg-gray-800 transition-colors duration-200"
+          style={{ display: 'block', width: '100%', height: '100%' }}
+          >
+            Ver Todos
           </button>
         </div>
       )}

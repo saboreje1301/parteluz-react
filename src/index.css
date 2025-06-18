@@ -24,13 +24,10 @@
   display: none;
 }
 
-/* Estilos para pantallas grandes (escritorio por defecto) */
 .ocultar-en-movil {
   display: block; /* La imagen se muestra por defecto */
-  /* Otros estilos para escritorio */
 }
 
-/* MEDIA QUERY: Estilos para pantallas con un ancho máximo de 768px (típicamente móvil y tablet pequeña) */
 @media (max-width: 768px) {
   .ocultar-en-movil {
     display: none; /* Oculta la imagen en pantallas pequeñas */
