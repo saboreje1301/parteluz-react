@@ -10,6 +10,7 @@ function HeroSection() {
           src="/assets/images/aux/190336_106.webp"
           alt="Modern Architecture"
           className="w-full h-full object-cover"
+          loading="lazy"
         />
         <div className="absolute inset-0 bg-black/50"></div>
       </div>

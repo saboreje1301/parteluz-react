@@ -22,6 +22,7 @@ function Carousel({ images = [], alt = '' }) {
         src={images[current]}
         alt={`${alt} ${current + 1}`}
         className="flex items-center justify-center size-9/12 object-cover rounded-lg"
+        loading="lazy"
       />
       </div>
       <button

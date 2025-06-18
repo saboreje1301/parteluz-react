@@ -29,6 +29,7 @@ function BlogGrid({ preview = false }) {
                 src={post.image}
                 alt={post.title}
                 className="object-cover w-full h-full"
+                loading="lazy"
               />
             </div>
             
