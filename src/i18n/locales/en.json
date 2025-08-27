@@ -1,0 +1,69 @@
+{
+    "nav": {
+    "home": "Home",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "blog": "Blog",
+    "contact": "Contact",
+    "menu": "Menu"
+  },
+
+  "footer": {
+  "quick_links": "Quick Links",
+  "slogan": "Building Dreams with Light and Space",
+  "contact" :"Contact Us",
+  "follow_us" : "Follow Us"
+},
+
+  "about": {
+    "title": "About Us",
+    "description": "We go beyond architecture and construction; we become interpreters of your most authentic self. Your fundamental need to be recognized and for your environment to speak for you is the compass that guides every stroke, every choice of material. We obsess over understanding your tacit desires, those aspirations you sometimes don’t even verbalize. Can you imagine a space that not only inspires you, but validates you, silently affirming your place and your value? Let us build that personal or professional sanctuary where every detail is imbued with your essence, an environment you not only inhabit, but that empowers you at every moment. Because we know that, deep down, you long for a space that not only contains you, but propels you toward who you are truly meant to be.",
+    "subtitle": "Your Space is Your Silent Voice: Let Us Amplify It.",
+    "description_parragraph": "Do you feel that emptiness? That yearning for a space that not only surrounds you but completes you? At Parteluz Architecture, we don’t build bricks; we sculpt reflections of your most authentic self. Your fundamental need for belonging, to feel seen and understood, is the foundation of every design we create. Let us be the architects of that personal or professional sanctuary where every corner resonates with your identity, where every detail silently affirms: this is my place.",
+    "experiencies_years": "Years of Experience",
+    "completed_projects": "Completed Projects",
+    "our_services": "Our Services"
+  },
+
+  "common": {
+    "welcome": "Welcome to Our Architecture Firm",
+    "learn_more": "Learn More",
+    "contact_us": "Contact Us",
+    "company_name": "Parteluz Arquitectura",
+    "portfolio_link": "Portfolio",
+    "about_link": "About Us",
+    "blog_link": "Blog",
+    "privacy_policy_link": "Privacy Policy"
+  },
+  "homepage": {
+    "hero_title": "Designing the Future with Roots in the Past",
+    "about_us_section": "About Us"
+  },
+"herosection": {
+  "slogan": "ParteLuz Arquitectura - Construction and Design",
+  "description": "We are an architecture studio based in San Miguel de Allende, recognized for transforming luxury residential and commercial spaces. Our proposal masterfully integrates contemporary design with the essence and charm of colonial architecture.",
+  "projects": "Our Projects",
+  "contact": "Contact Us"
+},
+
+  "seo": {
+    "title_home": "Architects & Builders | San Miguel de Allende",
+    "description_home": "Architecture and construction firm in San Miguel de Allende. Experts in luxury residential design, hacienda restoration, and custom villas that blend contemporary styles with colonial tradition. We build your dreams in the heart of Mexico!",
+    "keywords_home": "architect San Miguel de Allende, construction company San Miguel de Allende, designer San Miguel de Allende, luxury home design Mexico, custom villa construction, Mexican colonial architecture, contemporary design, hacienda restoration San Miguel, courtyard house design, sustainable construction Mexico, bilingual architects San Miguel, construction project management, Guanajuato construction firm, property renovation, new build San Miguel, residential architectural design, interior design San Miguel de Allende, turnkey construction, luxury remodels, historic properties, real estate investment San Miguel, expert architects, interior designers",
+    "title_portfolio": "Project Portfolio | Architecture and Design",
+    "description_portfolio": "Explore our portfolio of luxury residential and commercial projects in San Miguel de Allende...",
+    "keywords_portfolio": "architecture portfolio, luxury projects San Miguel, residential design, commercial construction, project galleries",
+    "title_about": "About Us | Architecture Firm in SMA",
+    "description_about": "Meet our team of architects and designers, learn about our philosophy, and our commitment to excellence in San Miguel de Allende.",
+    "keywords_about": "architecture team, design philosophy, quality commitment, Mexico architecture firm",
+    "title_contact": "Contact Us | Construction and Design in San Miguel",
+    "description_contact": "Get in touch with our team to start your architecture or construction project in San Miguel de Allende.",
+    "keywords_contact": "contact architect, construction quote, design estimate, San Miguel de Allende office",
+    "title_blog": "Architecture & Design Blog | News and Trends",
+    "description_blog": "Read our articles on architecture trends, sustainable design, and life in San Miguel de Allende.",
+    "keywords_blog": "architecture blog, design trends, construction articles, San Miguel de Allende life",
+    "title_privacy": "Privacy Notice | Your Information is Secure",
+    "description_privacy": "Learn how we protect your personal information at our architecture and construction firm.",
+    "keywords_privacy": "privacy notice, data policy, information security, personal data"
+  }
+}

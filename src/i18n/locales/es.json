@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "portfolio": "Portafolio",
+    "about": "Nosotros",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "menu": "Menú"
+  },
+
+  "footer": {
+  "quick_links": "Enlaces Directos",
+  "slogan": "Creando experiencias arquitectónicas excepcionales en San Miguel de Allende.",
+  "contact" :"Contáctanos",
+  "follow_us" : "Síguenos"
+
+},
+
+"about": {
+  "title": "Acerca de Nosotros",
+  "description": "Vamos más allá de la arquitectura y la construcción; nos convertimos en intérpretes de tu yo más auténtico. Tu necesidad primordial de ser reconocido y de que tu entorno hable por ti es la brújula que guía cada trazo, cada elección de material. Nos obsesionamos con comprender tus deseos tácitos, esas aspiraciones que a veces ni siquiera verbalizas. ¿Imaginas un espacio que no solo te inspire, sino que te valide, que silenciosamente afirme tu lugar y tu valor? Permítenos construir ese santuario personal o profesional donde cada detalle esté imbuido de tu esencia, un entorno que no solo habitas, sino que te empodera en cada instante. Porque sabemos que, en lo más profundo, anhelas un espacio que no solo te contenga, sino que te propulse hacia quien realmente estás destinado a ser.",
+  "subtitle": "Tu Espacio Es Tu Voz Silenciosa: Permítenos Amplificarla.",
+  "description_parragraph": "¿Sientes ese vacío? Ese anhelo por un espacio que no solo te rodee, sino que te complete? En ParteLuz Arquitectura, no construimos ladrillos, esculpimos reflejos de tu ser más auténtico. Tu necesidad primordial de pertenencia, de sentirte visto y comprendido, es el cimiento de cada diseño que creamos. Permítenos ser los arquitectos de ese santuario personal o profesional donde cada rincón resuene con tu identidad, donde cada detalle silenciosamente afirme: este es mi lugar.",
+  "experiencies_years": "Años de Experiencia",
+  "completed_projects": "Proyectos Completados",
+  "our_services": "Nuestros Servicios"
+},
+
+  "common": {
+    "welcome": "Bienvenido a nuestro despacho de arquitectura",
+    "learn_more": "Conoce más",
+    "contact_us": "Contáctanos",
+    "company_name": "ParteLuz Arquitectura",
+    "portfolio_link": "Portafolio",
+    "about_link": "Nosotros",
+    "blog_link": "Blog",
+    "privacy_policy_link": "Aviso de privacidad"
+  },
+  "homepage": {
+    "hero_title": "Diseñando el futuro con raíces en el pasado",
+    "about_us_section": "Sobre nosotros"
+  },
+
+  
+"herosection": {
+  "slogan": "ParteLuz Arquitectura - Diseño y Construcción",
+  "description": "Somos un estudio de arquitectura de San Miguel de Allende, con una trayectoria reconocida por transformar espacios residenciales y comerciales de lujo. Nuestra propuesta integra magistralmente el diseño contemporáneo con la esencia y el encanto de la arquitectura colonial",
+  "projects": "Nuestros Proyectos",
+  "contact": "Contáctanos"
+},
+
+  "seo": {
+    "title_home": "Arquitectos y Constructores | San Miguel de Allende",
+    "description_home": "Despacho de arquitectura y construcción en San Miguel de Allende. Expertos en diseño residencial de lujo, restauración de haciendas y villas personalizadas que combinan estilos contemporáneos con tradición colonial. ¡Construimos tus sueños en el corazón de México!",
+    "keywords_home": "arquitecto San Miguel de Allende, empresa de construcción San Miguel de Allende, diseñador San Miguel de Allende, diseño de casas de lujo México, construcción de villas personalizadas, arquitectura colonial mexicana, diseño contemporáneo, restauración de haciendas San Miguel, diseño de casas con patio, construcción sostenible México, arquitectos bilingües San Miguel, gestión de proyectos de construcción, empresa constructora Guanajuato, renovación de propiedades, obra nueva San Miguel, diseño arquitectónico residencial, diseño de interiores San Miguel de Allende, construcción llave en mano, remodelaciones de lujo, propiedades históricas, inversión inmobiliaria San Miguel, arquitectos expertos, diseñadores de interiores",
+    "title_portfolio": "Portafolio de Proyectos | Arquitectura y Diseño",
+    "description_portfolio": "Explora nuestro portafolio de proyectos residenciales y comerciales de lujo en San Miguel de Allende...",
+    "keywords_portfolio": "portafolio de arquitectura, proyectos de lujo San Miguel, diseño residencial, construcción comercial, galerías de proyectos",
+    "title_about": "Sobre Nosotros | Despacho de Arquitectura en SMA",
+    "description_about": "Conoce a nuestro equipo de arquitectos y diseñadores, nuestra filosofía y nuestro compromiso con la excelencia en San Miguel de Allende.",
+    "keywords_about": "equipo de arquitectura, filosofía de diseño, compromiso de calidad, despacho de arquitectura México",
+    "title_contact": "Contáctanos | Construcción y Diseño en San Miguel",
+    "description_contact": "Ponte en contacto con nuestro equipo para iniciar tu proyecto de arquitectura o construcción en San Miguel de Allende.",
+    "keywords_contact": "contacto arquitecto, cotización de construcción, estimación de diseño, oficina San Miguel de Allende",
+    "title_blog": "Blog de Arquitectura y Diseño | Noticias y Tendencias",
+    "description_blog": "Lee nuestros artículos sobre tendencias en arquitectura, diseño sostenible y vida en San Miguel de Allende.",
+    "keywords_blog": "blog de arquitectura, tendencias de diseño, artículos de construcción, vida en San Miguel de Allende",
+    "title_privacy": "Aviso de Privacidad | Tu información está segura",
+    "description_privacy": "Conoce cómo protegemos tu información personal en nuestro despacho de arquitectura y construcción.",
+    "keywords_privacy": "aviso de privacidad, política de datos, seguridad de la información, datos personales"
+  }
+}

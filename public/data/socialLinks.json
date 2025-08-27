@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://www.facebook.com/parteluz.arquitectura",
+    "icon": "FaFacebookF",
+    "label": "Facebook",
+    "hoverColor": "#1877F3"
+  },
+  {
+    "url": "https://www.instagram.com/parteluzarquitectura",
+    "icon": "FaInstagram",
+    "label": "Instagram",
+    "hoverColor": "#E1306C"
+  },
+  {
+    "url": "https://www.tiktok.com/@parteluzarquitectura",
+    "icon": "FaTiktok",
+    "label": "TikTok",
+    "hoverColor": "#000000"
+  },
+  {
+    "url": "https://www.linkedin.com/company/parteluzarquitectura",
+    "icon": "FaLinkedinIn",
+    "label": "LinkedIn",
+    "hoverColor": "#0A66C2"
+  }
+]

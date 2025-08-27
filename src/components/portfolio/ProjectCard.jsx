@@ -7,17 +7,18 @@ function ProjectCard({ proyecto }) {
   return (
     <>
       <div className="group relative overflow-hidden rounded-lg shadow-lg transition-transform duration-300 hover:-translate-y-2">
-        <div className="aspect-w-16 h-64 relative">
+        {/* Contenedor de la imagen con altura fija */}
+        <div className="w-full h-64 relative">
           <picture>
-          <img
-            src={proyecto.image}
-            alt={proyecto.title}
-            className="object-cover w-full overflow-hidden transition-transform duration-300 group-hover:scale-110"
-            
-          />
+            <img
+              src={proyecto.image}
+              alt={proyecto.title}
+              className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110"
+            />
           </picture>
         </div>
-        
+
+        {/* Overlay con info */}
         <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
           <div className="absolute bottom-0 p-6 text-white">
             <h3 className="text-xl font-semibold mb-2">{proyecto.title}</h3>
@@ -46,12 +47,11 @@ function ProjectCard({ proyecto }) {
             <h4 className="text-3xl font-bold mb-4 text-gray-900">{proyecto.title}</h4>
             <p className="text-2xl font-bold mb-4 text-gray-900">{proyecto.year}</p>
             <p className="text-gray-600">{proyecto.category}</p>
-            <p className="text-gray-600">{proyecto.description}</p>  
-            <div className="gap-4 mb-4">
+            <p className="text-gray-600 mb-4">{proyecto.description}</p>  
+            <div className="gap-4">
               {proyecto.images && proyecto.images.length > 0 && (
-  <Carousel images={proyecto.images} alt={proyecto.title} />
-)}
-              
+                <Carousel images={proyecto.images} alt={proyecto.title} />
+              )}
             </div>
           </div>
         </div>
