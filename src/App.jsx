@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-route
 import Header from './components/layout/Header';
 import Footer from './components/layout/Footer';
 import HeroSection from './components/home/HeroSection';
-import PortfolioGrid from './components/portfolio/PortfolioGrid';
 import AboutSection from './components/about/AboutSection';
 import ContactForm from './components/contact/ContactForm';
 import BlogGrid from './components/blog/BlogGrid';
@@ -25,6 +24,8 @@ const Loading = () => (
     Cargando traducciones... / Loading translations...
   </div>
 );
+
+const PortfolioGrid = React.lazy(() => import('./components/portfolio/PortfolioGrid'));
 
 // Componente que maneja el SEO y el idioma para cada ruta
 function RouteWrapper({ children, pageKey }) {
@@ -81,10 +82,16 @@ function App() {
               />
 
               {/* Otras rutas, cada una con su RouteWrapper y pageKey */}
-              <Route
-                path="/portfolio"
-                element={<RouteWrapper pageKey="portfolio"><PortfolioGrid /></RouteWrapper>}
-              />
+             <Route
+              path="/portfolio"
+              element={
+              <RouteWrapper pageKey="portfolio">
+              <Suspense fallback={<Loading />}>
+              <PortfolioGrid />
+            </Suspense>
+            </RouteWrapper>
+            }
+            />
               <Route
                 path="/about"
                 element={<RouteWrapper pageKey="about"><AboutSection /></RouteWrapper>}
