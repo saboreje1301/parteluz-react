@@ -18,9 +18,9 @@
       "/assets/images/vinedos/IMG-20210804-WA0058.webp"
     ],
     "title": "Viñedos San Lucas",
-    "description": "Descripción del proyecto 1",
-    "category": "renovation",
-    "year": 2020
+    "description": "Resencia de estilo toscando ubicado en viñedos San Lucas. El proyecto se desarrollo desde diseño hasta la construcción",
+    "category": "Casa Habitacional",
+    "year": 2018
 
   },
     {
@@ -43,9 +43,9 @@
       "/assets/images/guadiana/20171220_160216.webp"
     ],
     "title": "Casa Guadiana",
-    "description": "Descripción del proyecto 2",
-    "category": "renovation",
-    "year": 2020
+    "description": "Diseño y construcción de casa habitación en Col. La Lenoja. Este proyecto cuenta con un estilo mexicano moderno que combina el uso de cantera, herreria y madera.",
+    "category": "Casa Habitacional",
+    "year": 2017
   },
     {
     "id": "casadosaguas",
@@ -67,9 +67,9 @@
       "/assets/images/casa_dos_aguas/20180525_173635.webp"
     ],
     "title": "Casa Dos Aguas",
-    "description": "Descripción del proyecto 2",
-    "category": "renovation",
-    "year": 2020
+    "description": "Este proyecto se desarrollo desde diseño hasta la construcción. Su estilo es moderno, usando elementos como el concreto expuesto, el metal, la madera y le vidrio. Maximizando la iluminación natural con sus losa invertidas descansadas sobre vigas de madera ",
+    "category": "Casa Habitacional",
+    "year": 2016
   },
     {
     "id": "casiopea",
@@ -87,8 +87,8 @@
       "/assets/images/casiopea/20230609_121028.webp"
     ],
     "title": "Casiopea",
-    "description": "Descripción del proyecto 2",
-    "category": "renovation",
+    "description": "En este proyecto de casa habitación se realizó una renovación integral, modernizando los espacios y mejorando completando los acabados.",
+    "category": "Renovación",
     "year": 2020
   },
   {
@@ -105,9 +105,9 @@
       "/assets/images/casathies/IMG_0815.webp"
     ],
     "title": "Casa Thies",
-    "description": "Descripción del proyecto 2",
-    "category": "renovation",
-    "year": 2020
+    "description": "Diseño y construcción. Su estilo se basa con una serie de obras que tienen un estilo moderno, con elementos como el concreto expuesto, el metal, la madera y el vidrio. Resalta su doble altura con el uso de madera color natural y sus piso de concreto",
+    "category": "Casa Habitacional",
+    "year": 2019
   },
     {
     "id": "casaelmilagro",
@@ -121,9 +121,9 @@
       "/assets/images/milagro36/IMG-20210430-WA0059.webp"
     ],
     "title": "Ampliación el Milagro",
-    "description": "Descripción del proyecto 2",
-    "category": "renovation",
-    "year": 2020
+    "description": "En este proyecto se ampliaron y renovaron los espacios en planta alta, extendiendo un area para un sala de TV, pergolados y barras de asador en terraza",
+    "category": "Ampliación",
+    "year": 2021
   },
     {
     "id": "cocinapirules",
@@ -144,8 +144,8 @@
       "/assets/images/cocinapirules/20180226_133741.webp"
     ],
     "title": "Cocina Pirules",
-    "description": "Descripción del proyecto 2",
-    "category": "commercial",
+    "description": "Diseño y construcción de cocina de los pirules en San Miguel de Allende",
+    "category": "Comercial",
     "year": 2016
   },
     {
@@ -163,9 +163,9 @@
       "/assets/images/casacinco/20210611_143057.webp"
     ],
     "title": "Casa Cinco",
-    "description": "Descripción del proyecto 2",
-    "category": "renovation",
-    "year": 2020
+    "description": "Para este proyecto se renovaron espacios interiores y exteriores, mejorando la funcionalidad y estética de la vivienda.",
+    "category": "Remodelación",
+    "year": 2021
   },
     {
     "id": "sendafracc7",
@@ -184,9 +184,9 @@
       "/assets/images/sendafracc/20210823_141240.webp"
     ],
     "title": "Senda San Miguel",
-    "description": "Descripción del proyecto 2",
-    "category": "residencial",
-    "year": 2020
+    "description": "Construcción de casa habitación en fraccionamiento.",
+    "category": "Casa Habitacional",
+    "year": 2018
   },
 
   {"id": "casa_6",
@@ -206,9 +206,9 @@
     "/assets/images/casa_6/CasaHC13.webp"
   ],
   "title": "Casa 6",
-  "description": "Descripción del proyecto 6",
-  "category": "renovation",
-  "year": 2018
+  "description": "Ampliación de casa habitación donde se maximizaron los espacios y se mejoró la distribución interior, al igual que se ampliaron áreas.",
+  "category": "Remodelación",
+  "year": 2016
   },
 
   {"id": "casa_12",
@@ -235,8 +235,8 @@
     "/assets/images/casa_12/IMG-20180926-WA0010.webp"
   ],
   "title": "Casa 12",
-  "description": "Descripción del proyecto 12",
-  "category": "renovation",
+  "description": "Diseño y construcción de una ampliación de un sotano. Siendo este un reto tecnico debido a la complejidad estructural del proyecto para lograr la amplicación de sotano sin comprometer la estabilidad de la estructura existente.",
+  "category": "Remodelación",
   "year": 2018
   },
 
@@ -262,9 +262,9 @@
     "/assets/images/casa_espejo/IMG-20181105-WA0080.webp"
   ],
   "title": "Casa Espejo",
-  "description": "Descripción del proyecto Casa Espejo",
-  "category": "residencial",
-  "year": 2021
+  "description": "Diseño y construcción. Su estilo se basa con una serie de obras que tienen un estilo moderno, con elementos como el concreto expuesto, el metal, la madera y el vidrio. Con escaleras de con huellas de concreto y peraltes de cristal templado que generan un juego de luces y sombras en el interior.",
+  "category": "Casa Habitacional",
+  "year": 2018
 }
 
 ]
